@@ -1,0 +1,16 @@
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\bin\Debug\fileUploadTuts.exe.config
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\bin\Debug\fileUploadTuts.exe
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\bin\Debug\fileUploadTuts.pdb
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.csproj.AssemblyReference.cache
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.csproj.SuggestedBindingRedirects.cache
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\MainWindow.g.cs
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\App.g.cs
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts_MarkupCompile.cache
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts_MarkupCompile.lref
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\MainWindow.baml
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.g.resources
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.Properties.Resources.resources
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.csproj.GenerateResource.cache
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.csproj.CoreCompileInputs.cache
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.exe
+C:\Users\julet\Desktop\Workspace\c# Apps\fileUploadTuts\fileUploadTuts\fileUploadTuts\obj\Debug\fileUploadTuts.pdb

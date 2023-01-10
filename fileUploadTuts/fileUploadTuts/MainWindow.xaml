@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="fileBrowseBtn" Content="Browse File" HorizontalAlignment="Left" Margin="37,129,0,0" VerticalAlignment="Top" Height="60" Width="239" FontSize="24" Click="fileBrowseBtn_Click"/>
+        <Label x:Name="fileNameLbl" Content="Label" HorizontalAlignment="Left" Margin="315,138,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Button x:Name="submitFileBtn" Content="Submit File" HorizontalAlignment="Left" Margin="37,244,0,0" VerticalAlignment="Top" Height="67" Width="239" FontSize="24" Click="submitFileBtn_Click"/>
+
     </Grid>
 </Window>
